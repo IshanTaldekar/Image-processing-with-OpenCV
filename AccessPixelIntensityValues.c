@@ -25,7 +25,7 @@ modified as per the project requirements.
 
 void AccessPixelIntensityValues(IplImage** user_image)
 {
-	//Declaring 
+	//Initializing the image
 	IplImage* source = 0;
 
 	//Scalar to hold the pointer to a pixel in the image.
